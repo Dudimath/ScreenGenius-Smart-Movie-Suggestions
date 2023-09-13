@@ -111,7 +111,7 @@ Before you begin, make sure you have the following prerequisites installed:
 - Scikit-learn 0.22 or higher
 - Jupyter Notebook (optional, for running notebooks)
 
-### Accesing this Repository
+## Accesing this Repository
 
 1. Clone the repository to your local machine:
       ```bash
@@ -132,12 +132,12 @@ Submit a pull request with a clear description of your changes.
 
 We welcome contributions and appreciate your help in making this project better👌👌👌
 
-### Acknowledgement:
+## Acknowledgement:
 
 I would like to give credit to the GroupLens research lab at the University of Minnesota for providing the MovieLens dataset that was used in the development of this recommendation system. The MovieLens dataset is an excellent resource for building and evaluating movie recommendation algorithms.
 
 Link to the MovieLens dataset: [MovieLens dataset](http://movielens.org/)
 
-I am thankful for their efforts in collecting and maintaining this dataset, which has been helpful in the development and testin
+I am thankful for their efforts in collecting and maintaining this dataset, which has been helpful in the development and testing of the recommendation system.
 
 
