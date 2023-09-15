@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Movie Recommendations</title>
+</head>
+<body>
+    <h1>Top 5 Movie Recommendations</h1>
+    <ul>
+        {% for recommendation in recommendations %}
+        <li>Movie: {{ recommendation.title }} - Predicted Rating: {{ recommendation.predicted_rating }}</li>
+        {% endfor %}
+    </ul>
+</body>
+</html>

@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Movie Recommender</title>
+</head>
+<body>
+    <h1>Movie Recommender</h1>
+    <form method="POST">
+        <label for="user_id">Enter User ID:</label>
+        <input type="text" name="user_id" required>
+        <input type="submit" value="Get Recommendations">
+    </form>
+
+    {% if recommendations %}
+    <h2>Top 5 Movie Recommendations for User {{ user_id }}</h2>
+    <table>
+        <tr>
+            <th>Movie Title</th>
+            <th>Predicted Rating</th>
+        </tr>
+        {% for recommendation in recommendations %}
+        <tr>
+            <td>{{ recommendation.title }}</td>
+            <td>{{ recommendation.predicted_rating }}</td>
+        </tr>
+        {% endfor %}
+    </table>
+    {% endif %}
+</body>
+</html>
