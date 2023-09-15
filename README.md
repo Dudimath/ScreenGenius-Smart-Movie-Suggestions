@@ -3,16 +3,16 @@
 ## Table of Contents
 
 * [Introduction](#Introduction)
-* [Problem Statement](#Problem-Statement)
-* [Business Understanding](#Business-Understanding)
-* [Data Understanding](#Data-Understanding)
-* [Import Necessary Libraries](#Import-Necessary-Libraries)
-* [Load Dataset](#Load-Dataset)
-* [Data Processing](#Data-Processing)
-* [Modelling](#Modelling)
-* [Evaluation](#Evaluation)
-* [Prediction](#Prediction)
-* [Recommnedations](#Recommnedations)
+* [Problem Statement](#problem-statement)
+* [Business Understanding](#business-understanding)
+* [Data Understanding](#data-understanding)
+* [Import Necessary Libraries](#import-necessary-libraries)
+* [Load Dataset](#load-dataset)
+* [Data Processing](#data-processing)
+* [Modelling](#modelling)
+* [Evaluation](#evaluation)
+* [Prediction](#prediction)
+* [Recommnedations](#recommendations)
 
 ## Introduction
 
