@@ -13,7 +13,7 @@
 * [Evaluation](#evaluation)
 * [Prediction](#prediction)
 * [Recommnedations](#recommendations)
-
+* [Presentation](#presentation)
 ## Introduction
 
 ### Project Significance
@@ -94,6 +94,9 @@ The report is organized into several sections, each covering a specific aspect o
 ### 10. Insights and Analytics
 
 - Gains valuable insights into user behavior, movie popularity, and the effectiveness of different recommendation algorithms, helping stakeholders make data-driven decisions.
+  
+## Presentation
+You can access my presentation [here](https://www.canva.com/design/DAFuZmMl6T4/RiMyS4ivpqyGAypXj5Gxpw/edit?utm_content=DAFuZmMl6T4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).
 
 ## Getting Started
 
